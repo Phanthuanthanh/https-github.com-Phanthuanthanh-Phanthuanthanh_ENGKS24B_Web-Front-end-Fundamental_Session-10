@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 10px;
+}
+.main{
+    display: flex;
+    gap: 20px;
+}
+p{
+    padding-top: 10px;
+    color: #978e8c;
+}
+.o{
+    align-items: center;
+    justify-content: center;
+    color: rgb(139 146 154);
+    border-radius: 6px;
+    background-color: rgb(235 238 243);
+    display: flex;
+    width:360px; 
+    height:100px;
+}
+img{
+    border-radius: 6px;
+    width:360px; 
+    height:300px;
+}
